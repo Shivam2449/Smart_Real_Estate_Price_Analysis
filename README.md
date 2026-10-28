@@ -69,14 +69,14 @@ Used different graphs to explore the dataset and understand its main patterns:
 * Scatter plots
 * Box plots
 * Correlation heatmaps
+
 The analysis focused on:
 
 * Distribution of house prices.
 * Relationship between living area and price.
 * Effect of bedrooms, bathrooms, and house grade.
-* Differences between renovated and non-renovated houses.
 * Impact of waterfront access and views.
-* Price variations across different locations.
+
 
 ### 5. Feature Analysis
 
