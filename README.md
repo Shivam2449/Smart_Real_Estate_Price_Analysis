@@ -1,4 +1,4 @@
-# 🏠 Real Estate Price Analysis Using Python
+# 🏠 Smart Real_Estate Price Analysis Using Python
 
 A data analytics project focused on understanding house prices and the factors that influence them.
 
