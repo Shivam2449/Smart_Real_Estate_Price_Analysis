@@ -1,6 +1,4 @@
-# 🏠 Smart Real_Estate Price Analysis Using Python
-
-A data analytics project focused on understanding house prices and the factors that influence them.
+# 🏠 Smart Real_Estate Price Analysis
 
 ## 📌 About the Project
 
@@ -88,9 +86,24 @@ Additional features, such as house age, renovation status, and price per square 
 
 Created charts using Matplotlib and Seaborn to present the findings clearly.
 
-These visualizations help make housing trends easier to understand without requiring advanced technical knowledge.
+**Screenshots:**
 
-## 📊 Key Findings
+<img width="400" height="250" alt="download" src="https://github.com/user-attachments/assets/ee8b7b48-7407-46a7-954a-3bc605879491" />
+
+**Conclusion:**
+Market mainly consists of affordable properties, with fewer luxury houses.
+
+<img width="400" height="250" alt="download" src="https://github.com/user-attachments/assets/844c35e3-2537-4146-b469-0feb682cffc1" />
+
+**Conclusion:**
+Generally, houses with larger living areas have higher prices.
+
+<img width="400" height="250" alt="download" src="https://github.com/user-attachments/assets/04e29767-67e0-4e7f-8f93-dc9bee400219" />
+
+**Conclusion:**
+Larger houses with better construction grades generally have higher prices
+
+## 📊 Conclusion after DataVisualization
 
 * Houses with larger living areas generally have higher prices.
 * Construction grade is an important factor associated with property value.
